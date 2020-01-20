@@ -1,0 +1,40 @@
+.imageView__container {
+  width: 100%;
+  text-align: center;
+  color: #fff;
+}
+
+.imageView__img {
+  height: 400px;
+  width: auto;
+}
+
+.imageView__copyright {
+  color: #8f8f8f;
+}
+
+.imageView__text {
+  margin-top: 1rem;
+}
+
+.imageView__text h4, h5, span {
+  letter-spacing: 1px;
+  color: #f39c12;
+}
+
+.imageView__text h4 span {
+  font-weight: bold;
+  color: #c0392b;
+}
+
+.imageView__text a {
+  font-weight: bold;
+  color: #c0392b;
+}
+
+.imageView__text button {
+  border: 0;
+  background: transparent;
+  border: solid 2px #34495e;
+  margin-top: 10px;
+}
